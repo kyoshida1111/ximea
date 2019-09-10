@@ -1,8 +1,4 @@
-﻿// xiApiPlusOcvExample.cpp : program opens first camera, captures and displays 40 images
-//#pragma error(disable:4996)
-//#define _CRT_SECURE_NO_WARNINGS
-
-#include <iostream>
+﻿#include <iostream>
 #include <stdio.h>
 #include <opencv2\\opencv.hpp>
 #include <opencv2\\highgui\\highgui.hpp>
